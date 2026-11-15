@@ -68,3 +68,43 @@ footer {
     color: #777184;
     font-size: 13px;
 }
+
+.legal {
+    max-width: 850px;
+    text-align: left;
+    padding: 35px 0;
+}
+
+.legal h1,
+.legal .subtitle {
+    text-align: center;
+}
+
+.legal h2 {
+    color: #c4b5fd;
+    margin-top: 35px;
+    margin-bottom: 14px;
+}
+
+.legal h3 {
+    color: #ddd6fe;
+    margin-top: 22px;
+    margin-bottom: 10px;
+}
+
+.legal p,
+.legal li {
+    color: #c2bdce;
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+.legal ul {
+    padding-left: 25px;
+}
+
+.updated {
+    text-align: center;
+    color: #888196;
+    margin-bottom: 35px;
+}
